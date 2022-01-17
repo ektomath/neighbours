@@ -19,7 +19,7 @@ import static java.lang.System.out;
  * NOTE:
  * - JavaFX first calls method init() and then method start() far below.
  * - To test methods uncomment call to test() first in init() method!
- *
+ *      TEST AV COMMIT
  */
 // Extends Application because of JavaFX (just accept for now)
 public class Neighbours extends Application {
